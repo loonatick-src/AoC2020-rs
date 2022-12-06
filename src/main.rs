@@ -1,8 +1,10 @@
 mod read_input;
 
-mod day01;
+// mod day01;
 
-use day01::*;
+mod day02;
+
+use day02::*;
 
 
 fn main() {
